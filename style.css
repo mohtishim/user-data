@@ -3,7 +3,6 @@
     width: 33.3333%;
     background-color: lightgreen;
     color: GREEN;
-    
 }
 
 .center{
@@ -14,46 +13,73 @@
 
 .table2{
     width: 100%;
+    border-collapse: collapse;
 }
 
 
 .id{
     width: 5%;
     text-align: center;
-    height: 40px;
+    height: 50px;
 }
 
 .profile{
     width: 19%;
     text-align: center;
-    height: 40px;
+    height: 50px;
 }
 
 .name{
     width: 19%;
     text-align: center;
-    height: 40px;
+    height: 50px;
 }
 
 .email{
     width: 19%;
     text-align: center;
-    height: 40px;
+    height: 50px;
+    font-weight: bold;
+    color: green;
 }
 
 .status{
     width: 19%;
     text-align: center;
-    height: 40px;
+    height: 50px;
 }
 
 .view{
     width: 19%;
     text-align: center;
-    height: 40px;
+    height: 50px;
 }
 
 .tr1{
     font-weight: bold;
     color: green;
+}
+
+.table2 tr:nth-child(){
+    background-color: lightgreen;
+}
+
+button{
+    background-color: lightgreen;
+    height: 80%;
+}
+
+i{
+    color: green;
+    font-size:35px;
+}
+
+.tr3,.tr6{
+    background-color: rgb(181, 228, 181);
+}
+
+td,th{
+    margin: 0%;
+    padding: 0%;
+    border: none;
 }
