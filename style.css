@@ -1,0 +1,59 @@
+.heading{
+    text-align: center;
+    width: 33.3333%;
+    background-color: lightgreen;
+    color: GREEN;
+    
+}
+
+.center{
+    width: 100%;
+    /* justify-content: center;
+    display: flex; */
+}
+
+.table2{
+    width: 100%;
+}
+
+
+.id{
+    width: 5%;
+    text-align: center;
+    height: 40px;
+}
+
+.profile{
+    width: 19%;
+    text-align: center;
+    height: 40px;
+}
+
+.name{
+    width: 19%;
+    text-align: center;
+    height: 40px;
+}
+
+.email{
+    width: 19%;
+    text-align: center;
+    height: 40px;
+}
+
+.status{
+    width: 19%;
+    text-align: center;
+    height: 40px;
+}
+
+.view{
+    width: 19%;
+    text-align: center;
+    height: 40px;
+}
+
+.tr1{
+    font-weight: bold;
+    color: green;
+}
